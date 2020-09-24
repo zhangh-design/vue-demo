@@ -1,5 +1,6 @@
-
+```
 <el-button ref="bbb">click 触发</el-button>
+```
 
 nativeOn 的形式：
 
